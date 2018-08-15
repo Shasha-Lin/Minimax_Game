@@ -9,5 +9,3 @@ This mini project was for Fundamental Algorithms (CSCI-GA/DS-GA 1170) with Profe
 
 # The People
 Shasha Lin and Julie Helmers are both MS in Data Science students at NYU, graduating in May 2018.
-
-End.
